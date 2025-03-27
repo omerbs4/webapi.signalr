@@ -10,7 +10,13 @@ builder.Services.AddSignalR();
 builder.Services.AddDefaultCors();
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("SqlServer")));
-var app = builder.Build();
+var app = builder.Build();//test
+
+//test
+
+
+
+//test
 
 
 

@@ -4999,11 +4999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\o_khr\\OneDrive\\Masaüstü\\signalr_chat\\Server\\ChatServer.Webapı\\ChatServer.Webapı.csproj",
+      "projectUniqueName": "C:\\Users\\o_khr\\OneDrive\\Documents\\GitHub\\webapi.signalr\\Server\\ChatServer.Webapı\\ChatServer.Webapı.csproj",
       "projectName": "ChatServer.Webapı",
-      "projectPath": "C:\\Users\\o_khr\\OneDrive\\Masaüstü\\signalr_chat\\Server\\ChatServer.Webapı\\ChatServer.Webapı.csproj",
+      "projectPath": "C:\\Users\\o_khr\\OneDrive\\Documents\\GitHub\\webapi.signalr\\Server\\ChatServer.Webapı\\ChatServer.Webapı.csproj",
       "packagesPath": "C:\\Users\\o_khr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\o_khr\\OneDrive\\Masaüstü\\signalr_chat\\Server\\ChatServer.Webapı\\obj\\",
+      "outputPath": "C:\\Users\\o_khr\\OneDrive\\Documents\\GitHub\\webapi.signalr\\Server\\ChatServer.Webapı\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
