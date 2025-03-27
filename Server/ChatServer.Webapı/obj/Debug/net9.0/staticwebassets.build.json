@@ -1,12 +1,20 @@
 {
   "Version": 1,
-  "Hash": "QTRGCt1L6F38fH5hh9aOEW0ZQf88dG/vyT3RzxJ4HUY=",
+  "Hash": "P5KtlFjFbgkvnWb+MBbnilRYaFn8CaOOtj4EtjeJz5o=",
   "Source": "ChatServer.Webapı",
   "BasePath": "_content/ChatServer.Webapı",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatServer.Webapı\\wwwroot",
+      "Source": "ChatServer.Webapı",
+      "ContentRoot": "C:\\Users\\o_khr\\OneDrive\\Masaüstü\\signalr_chat\\Server\\ChatServer.Webapı\\wwwroot\\",
+      "BasePath": "_content/ChatServer.Webapı",
+      "Pattern": "**"
+    }
+  ],
   "Assets": [],
   "Endpoints": []
 }

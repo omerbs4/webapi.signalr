@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer.Webapı", "ChatServer.Webapı.csproj", "{FFBA7B34-C901-059D-15CF-378FFED45134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBA7B34-C901-059D-15CF-378FFED45134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBA7B34-C901-059D-15CF-378FFED45134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBA7B34-C901-059D-15CF-378FFED45134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBA7B34-C901-059D-15CF-378FFED45134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB43C6E-67F7-42AD-B741-1B9BCD553A93}
+	EndGlobalSection
+EndGlobal

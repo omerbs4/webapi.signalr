@@ -159,3 +159,6 @@ C:\Users\o_khr\OneDrive\Masaüstü\signalr_chat\Server\ChatServer.Webapı\obj\De
 C:\Users\o_khr\OneDrive\Masaüstü\signalr_chat\Server\ChatServer.Webapı\obj\Debug\net9.0\ChatServer.Webapı.pdb
 C:\Users\o_khr\OneDrive\Masaüstü\signalr_chat\Server\ChatServer.Webapı\obj\Debug\net9.0\ChatServer.Webapı.genruntimeconfig.cache
 C:\Users\o_khr\OneDrive\Masaüstü\signalr_chat\Server\ChatServer.Webapı\obj\Debug\net9.0\ref\ChatServer.Webapı.dll
+C:\Users\o_khr\OneDrive\Masaüstü\signalr_chat\Server\ChatServer.Webapı\bin\Debug\net9.0\ChatServer.Webapı.staticwebassets.runtime.json
+C:\Users\o_khr\OneDrive\Masaüstü\signalr_chat\Server\ChatServer.Webapı\bin\Debug\net9.0\Nlabs.DefaultCorsPolicy.dll
+C:\Users\o_khr\OneDrive\Masaüstü\signalr_chat\Server\ChatServer.Webapı\bin\Debug\net9.0\TS.FileService.dll
