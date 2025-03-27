@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|c:\\users\\o_khr\\onedrive\\masa\u00FCst\u00FC\\signalr_chat\\server\\chatserver.webap\u0131\\chatserver.webap\u0131.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|solutionrelative:chatserver.webap\u0131\\chatserver.webap\u0131.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|c:\\users\\o_khr\\onedrive\\masa\u00FCst\u00FC\\signalr_chat\\server\\chatserver.webap\u0131\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|solutionrelative:chatserver.webap\u0131\\controllers\\chatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|c:\\users\\o_khr\\onedrive\\masa\u00FCst\u00FC\\signalr_chat\\server\\chatserver.webap\u0131\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|solutionrelative:chatserver.webap\u0131\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|c:\\users\\o_khr\\onedrive\\masa\u00FCst\u00FC\\signalr_chat\\server\\chatserver.webap\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|solutionrelative:chatserver.webap\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|c:\\users\\o_khr\\onedrive\\masa\u00FCst\u00FC\\signalr_chat\\server\\chatserver.webap\u0131\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|solutionrelative:chatserver.webap\u0131\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|c:\\users\\o_khr\\onedrive\\masa\u00FCst\u00FC\\signalr_chat\\server\\chatserver.webap\u0131\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0A61B9-613D-4112-BFA1-9F5089C29628}|ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj|solutionrelative:chatserver.webap\u0131\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatsController.cs",
+              "DocumentMoniker": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Controllers\\ChatsController.cs",
+              "RelativeDocumentMoniker": "ChatServer.Webap\u0131\\Controllers\\ChatsController.cs",
+              "ToolTip": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Controllers\\ChatsController.cs",
+              "RelativeToolTip": "ChatServer.Webap\u0131\\Controllers\\ChatsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:08:00.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ChatServer.Webap\u0131\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ChatServer.Webap\u0131\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:00:54.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "ChatServer.Webap\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Program.cs",
+              "RelativeToolTip": "ChatServer.Webap\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:00:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatServer.Webap\u0131",
+              "DocumentMoniker": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj",
+              "RelativeDocumentMoniker": "ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj",
+              "ToolTip": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj",
+              "RelativeToolTip": "ChatServer.Webap\u0131\\ChatServer.Webap\u0131.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T17:54:29.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ChatServer.Webap\u0131\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "ChatServer.Webap\u0131\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:54:40.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatServer.Webap\u0131\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\o_khr\\OneDrive\\Masa\u00FCst\u00FC\\signalr_chat\\Server\\ChatServer.Webap\u0131\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatServer.Webap\u0131\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:52:48.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
