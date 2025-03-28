@@ -1,5 +1,5 @@
-using ChatServer.Webapý.Context;
-using ChatServer.Webapý.Hubs;
+using ChatServer.Webapï¿½.Context;
+using ChatServer.Webapï¿½.Hubs;
 using Microsoft.EntityFrameworkCore;
 using Nlabs.DefaultCorsPolicy;
 
@@ -15,7 +15,7 @@ var app = builder.Build();//test
 //test
 
 
-
+//test isl git 
 //test
 
 
